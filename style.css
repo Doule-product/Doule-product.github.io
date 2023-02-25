@@ -20,8 +20,6 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    min-height: auto;
-    min-width: auto;
 }
 .t3 {
     color: aliceblue;
